@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99leo\\source\\repos\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj": {}
+    "C:\\Users\\b\\Desktop\\poubelle\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99leo\\source\\repos\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj": {
+    "C:\\Users\\b\\Desktop\\poubelle\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99leo\\source\\repos\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj",
+        "projectUniqueName": "C:\\Users\\b\\Desktop\\poubelle\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj",
         "projectName": "JeuCombatMyGroup",
-        "projectPath": "C:\\Users\\99leo\\source\\repos\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj",
-        "packagesPath": "C:\\Users\\99leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99leo\\source\\repos\\JeuCombatMyGroup\\JeuCombatMyGroup\\JeuCombatMyGroup\\obj\\",
+        "projectPath": "C:\\Users\\b\\Desktop\\poubelle\\JeuCombatMyGroup\\JeuCombatMyGroup.csproj",
+        "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b\\Desktop\\poubelle\\JeuCombatMyGroup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\99leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,17 +43,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
