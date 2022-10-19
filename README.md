@@ -23,10 +23,10 @@ Le jeu est directement jouable à l'aide du .exe
 Afin de vous faiciliter l'évaluation de notre travail, vous pouvez
 consulter deux types de code sources dans le dossier associé : 
 celui de l'implémentation graphique hors console et celui de la 
-version console améliorée graphiquement comprenant toutes les autres
-améliorations. Ainsi, le BattleInDraconia.exe vous permet de lancer 
-le jeu, noter l'amélioration graphique hors console et enfin consulter
-comment il a été créé.
+version console améliorée graphiquement comprenant toutes les 
+autres améliorations. Ainsi, le BattleInDraconia.exe vous permet 
+de lancer le jeu, noter l'amélioration graphique hors console et 
+enfin consulter comment il a été créé.
 La version console pourra être lancé avec Visual Studio 2019, et 
 vous devrait jouer cette version pour noter les autres améliorations.
 
@@ -81,7 +81,9 @@ Echap : quitter le programme à tout moment
 ==================================================================
 
 Océane - Intégration visuelle avec Monogame
+
 Théo   - Programmation simulation IA vs IA
+
 Léo    - Programmation ajout classe
 
 ==================================================================
