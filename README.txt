@@ -8,6 +8,17 @@ v1.0
  * Général *
 ==================================================================
 
+pour l'ouvrir dans visual studio en tant que solution --> ouvrir JeuCombatMyGroup.csproj 
+( du dossier JeuCombatMyGroup )
+
+pour ouvrir uniquement le .exe de la version console --> extraire le JeuDeCombat-versionConsole
+et run l'exe
+
+
+
+
+________________
+
 Le jeu est directement jouable à l'aide du .exe
 Afin de vous faiciliter l'évaluation de notre travail, vous pouvez
 consulter deux types de code sources dans le dossier associé : 
