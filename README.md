@@ -15,7 +15,7 @@ Jeu version graphique (Code Source) --> ouvrir "Battle in Draconia.csproj" se si
 Jeu version graphique (executable) --> extraire le "JeuDeCombat-versionGraphique.zip" et run l'exe 
 
 ==================================================================
- * Général *
+ * Général 
 ==================================================================
 
 Le jeu est directement jouable à l'aide du .exe
@@ -31,7 +31,7 @@ vous devrait jouer cette version pour noter les autres améliorations.
 
 
 ==================================================================
-* Fonctionnement *
+* Fonctionnement 
 ==================================================================
 
 - VERSION GRAPHIQUE -
@@ -55,7 +55,7 @@ Program.cs
 
 
 ==================================================================
-* Contrôles *
+* Contrôles 
 ==================================================================
 
 - VERSION GRAPHIQUE -
@@ -73,7 +73,7 @@ Echap : quitter le programme à tout moment
 
 
 ==================================================================
-* Crédits *
+* Crédits 
 ==================================================================
 
 Océane - Intégration visuelle avec Monogame
@@ -81,7 +81,7 @@ Théo   - Programmation simulation IA vs IA
 Léo    - Programmation ajout classe
 
 ==================================================================
-* Remarques *
+* Remarques 
 ==================================================================
 
 © 2022 Groupe D : Océane - Théo - Léo. Tous droits réservés.
