@@ -16,6 +16,7 @@ Jeu version graphique (executable) --> extraire le "JeuDeCombat-versionGraphique
 
 ==================================================================
  * Général 
+
 ==================================================================
 
 Le jeu est directement jouable à l'aide du .exe
@@ -32,6 +33,7 @@ vous devrait jouer cette version pour noter les autres améliorations.
 
 ==================================================================
 * Fonctionnement 
+
 ==================================================================
 
 - VERSION GRAPHIQUE -
@@ -56,6 +58,7 @@ Program.cs
 
 ==================================================================
 * Contrôles 
+
 ==================================================================
 
 - VERSION GRAPHIQUE -
@@ -74,6 +77,7 @@ Echap : quitter le programme à tout moment
 
 ==================================================================
 * Crédits 
+
 ==================================================================
 
 Océane - Intégration visuelle avec Monogame
@@ -82,6 +86,7 @@ Léo    - Programmation ajout classe
 
 ==================================================================
 * Remarques 
+
 ==================================================================
 
 © 2022 Groupe D : Océane - Théo - Léo. Tous droits réservés.
