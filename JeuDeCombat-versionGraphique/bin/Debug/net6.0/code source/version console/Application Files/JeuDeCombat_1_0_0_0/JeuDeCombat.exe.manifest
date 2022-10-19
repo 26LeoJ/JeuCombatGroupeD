@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="JeuDeCombat.exe" version="1.0.0.0" publicKeyToken="808421f59699c3fe" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="JeuDeCombat" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="JeuDeCombat.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JeuDeCombat.exe" size="21448">
+      <assemblyIdentity name="JeuDeCombat" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YP7em8aflmhrctjuehXequ+wCP4IDHbMN+BzrmT6vO4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="JeuDeCombat.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-EHEDCQR2\b" issuerKeyHash="f89792dcea8d461fa4ff9290b5f2c8f672ca7624" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xnroV+baxABvHb0ZrKiOeIVOkjCZT5BLqO8/kFXMCG8=</DigestValue></Reference></SignedInfo><SignatureValue>cyjnKc80Febg5HlDj2RWV27U6OY1KxlH9S3oAEOiIDXXDAXPEkxEFjEf0+5jbj0Yiq5FKb6zrNGJe2W8cWjebN5RvGiv9bs21s/3bf0nWWMly9oJ2xR0owWbknQLXuyQYzaHIcYmrl4OsO+dDueMF0W7ZzYHsjrtEs8Bz4SKCrc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ykVUfkQy+TmTJnloTmls4tOUBqPYn4G6dSHmpt/D2EbGrLREGGqPfhKxpawTIt1NmkLwG+F6SWfDdNC8TmiMoMof5adzvxc1HL59gIEkYbywSwbWG4j4v6Po9AsS4pAud6rU//I3TlL1Jjrfvr/m6uWtmlmah4ygubB7m53p//0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6f08cc55903fefa84b904f9930924e85788ea8ac19bd1d6f00c4dae657e87ac6" Description="" Url=""><as:assemblyIdentity name="JeuDeCombat.exe" version="1.0.0.0" publicKeyToken="808421f59699c3fe" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-EHEDCQR2\b</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6ScaqK7qVQRswSlsCfB2Flfia6b3y5myWa1sYsmGruE=</DigestValue></Reference></SignedInfo><SignatureValue>nNf77JL63U3UYihAMO5filVhOchbRz+fKYsLYsrjiE76F9fJNW0ijSal32BY9+rxsYiOVwdiMiHnhkYXDFeV++M95FTM0DeCJKqBTcuuvdIjXM6HXJwY6bPdVu6IHRK+74p0aVHCvJ4QCJQAYqXZwgEyWVczRL6QIREaKQuzlwQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ykVUfkQy+TmTJnloTmls4tOUBqPYn4G6dSHmpt/D2EbGrLREGGqPfhKxpawTIt1NmkLwG+F6SWfDdNC8TmiMoMof5adzvxc1HL59gIEkYbywSwbWG4j4v6Po9AsS4pAud6rU//I3TlL1Jjrfvr/m6uWtmlmah4ygubB7m53p//0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQYDhB7LGgIIBFBMq7btuBdjANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIATABBAFAAVABPAFAALQBFAEgARQBEAEMAUQBSADIAXABiMB4XDTIyMTAxMzEzMDg1M1oXDTIzMTAxMzE5MDg1M1owLTErMCkGA1UEAx4iAEwAQQBQAFQATwBQAC0ARQBIAEUARABDAFEAUgAyAFwAYjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAykVUfkQy+TmTJnloTmls4tOUBqPYn4G6dSHmpt/D2EbGrLREGGqPfhKxpawTIt1NmkLwG+F6SWfDdNC8TmiMoMof5adzvxc1HL59gIEkYbywSwbWG4j4v6Po9AsS4pAud6rU//I3TlL1Jjrfvr/m6uWtmlmah4ygubB7m53p//0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCaoxwdPQO7kdxiqDXdzdT98imtjFvDDgJIHO231HEmCNeZdEx3EINLpbAQN1shwSmsScmfAXpcySUWk6urJCF41Ks7Hh5a1cJw4Zt+2LBL2khgtbdXqMsd5Pcua3VE3kufAbFcZTV4zMjGsd6TBvzB2yhLCa9Mn/CKbHaeZvA9Wg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

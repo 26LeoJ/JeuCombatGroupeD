@@ -1,0 +1,122 @@
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.exe
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.deps.json
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.runtimeconfig.json
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.pdb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.csproj.AssemblyReference.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.AssemblyInfoInputs.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.AssemblyInfo.cs
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.csproj.CoreCompileInputs.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.csproj.CopyComplete
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\refint\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.pdb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.genruntimeconfig.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\obj\Debug\net6.0\ref\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\background.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleBackground.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleBackground2.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\galleryFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\start2.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\gamename.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\damagerSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\healerSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\tankSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\black.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\damagerHpAtkSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\healerHpAtkSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\tankHpAtkSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\dialogsFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\chooseFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\speSkills.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\nameChar.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleground\battlegound6.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleground\battleground5.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleground\battleground6.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\damagerFlipSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\healerFlipSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\characters\tankFlipSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleground\statsBlankBattle.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\battleTextFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\buttonSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-battle.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-battle.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-menu.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-menu.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\selectSong.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\selectSong.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\selecteffectSound.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\selecteffectSound.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\startEffectSound.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\Battle in Draconia\bin\Debug\net6.0\Content\song\startEffectSound.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\background.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleBackground.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleBackground2.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleground\battlegound6.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleground\battleground5.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleground\battleground6.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleground\statsBlankBattle.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\battleTextFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\black.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\buttonSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\damagerFlipSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\damagerHpAtkSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\damagerSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\healerFlipSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\healerHpAtkSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\healerSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\tankFlipSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\tankHpAtkSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\characters\tankSprite.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\chooseFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\dialogsFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\galleryFont.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\gamename.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\nameChar.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-battle.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-battle.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-menu.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\8bit-menu.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\selecteffectSound.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\selecteffectSound.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\selectSong.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\selectSong.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\startEffectSound.ogg
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\song\startEffectSound.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\speSkills.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Content\start2.xnb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.exe
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.deps.json
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.runtimeconfig.json
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\Battle in Draconia.pdb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.csproj.AssemblyReference.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.AssemblyInfoInputs.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.AssemblyInfo.cs
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.csproj.CoreCompileInputs.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.csproj.CopyComplete
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\refint\Battle in Draconia.dll
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.pdb
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\Battle in Draconia.genruntimeconfig.cache
+D:\Utilisateurs\oce49\Nouveau dossier\Etudes\ENJMIN\C#\Battle in Draconia\obj\Debug\net6.0\ref\Battle in Draconia.dll

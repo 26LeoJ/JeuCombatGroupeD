@@ -4,6 +4,16 @@
 Fichier README
 v1.0
 
+
+Jeu version Console (Code source) --> ouvrir JeuCombatMyGroup.csproj avec VS se situant dans le dossier associé puis dans
+JeuCombatMyGroup
+
+Jeu version Console (executable)  --> extraire le "JeuDeCombat-versionConsole.zip" et run l'exe
+
+Jeu version graphique (Code Source) --> ouvrir "Battle in Draconia.csproj" se situant dans le dossier associé
+
+Jeu version graphique (executable) --> extraire le "JeuDeCombat-versionGraphique.zip" et run l'exe 
+
 ==================================================================
  * Général *
 ==================================================================
@@ -25,6 +35,9 @@ vous devrait jouer cette version pour noter les autres améliorations.
 ==================================================================
 
 - VERSION GRAPHIQUE -
+
+Necéssite Monogame
+Neccéssite .NET6
 
 Il suffit d'exécuter le fichier Battle in Draconia.exe
 Suivez les indications afin de progresser dans le jeu. Gardez en
